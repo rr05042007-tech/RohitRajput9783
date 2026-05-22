@@ -23,8 +23,9 @@ Skills
 Projects
 
  [Portfolio Website](https://github.com/rohit123/portfolio)
- [Android Notes App](https://github.com/rohit123/notes-app)
+ [Kotlin based project (Android development](https://github.com/rohit123/projects)
  [UI/UX Design Samples](https://github.com/rohit123/uiux-samples)
+ [C++ Programming](https://github.com/rohit123/c++)
 
 
 GitHub Stats
